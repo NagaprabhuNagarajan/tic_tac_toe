@@ -260,13 +260,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "flutter_tic_tac_toe",
+      "name": "tic_tac_toe",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-05-03T09:54:12.037899Z",
+  "generated": "2023-05-03T10:09:14.335805Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }

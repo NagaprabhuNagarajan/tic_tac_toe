@@ -79,7 +79,7 @@ class _GameScreenState extends State<GameScreen> {
                   ),
                 ],
               ),
-              const SizedBox(width: 20),
+              const SizedBox(width: 40),
               Column(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
@@ -318,7 +318,7 @@ class _GameScreenState extends State<GameScreen> {
                     style: const TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
-                      fontSize: 50,
+                      fontSize: 45,
                     ),
                   ),
                 ),

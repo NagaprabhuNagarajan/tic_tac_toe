@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Prabhu/Personal/Projects/flutter-tic-tac-toe/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/Users/Prabhu/Personal/Projects/tic_tac_toe/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/Users/Prabhu/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ne/values-ne.xml",
